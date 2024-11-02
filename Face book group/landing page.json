@@ -1,0 +1,24 @@
+{
+    "features": [
+      {
+        "icon": "<i class='fas fa-users'></i>",
+        "title": "Vibrant Community",
+        "description": "Connect with like-minded individuals and build meaningful relationships."
+      },
+      {
+        "icon": "<i class='fas fa-comments'></i>",
+        "title": "Engaging Discussions",
+        "description": "Participate in thought-provoking discussions and exchange ideas."
+      },
+      {
+        "icon": "<i class='fas fa-book'></i>",
+        "title": "Resource Library",
+        "description": "Access a curated collection of valuable resources and educational materials."
+      },
+      {
+        "icon": "<i class='fas fa-calendar-alt'></i>",
+        "title": "Event Planning",
+        "description": "Organize and attend virtual or in-person events to connect with the community."
+      }
+    ]
+  }
